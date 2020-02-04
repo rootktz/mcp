@@ -1,2 +1,2 @@
 # mcp
-#scripts complitatinon
+#scripts complitation
